@@ -38,3 +38,47 @@ A simple and responsive Event Manager web application built using **HTML**, **CS
 ---
 
 ## 📁 Project Structure
+
+```
+
+
+
+````
+event-manager/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+---
+
+## 👨‍💻 How to Use Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Balmukund-01/event-manager.git
+````
+
+2. Open the folder:
+
+   ```bash
+   cd event-manager
+   ```
+
+3. Open `index.html` in any browser (double-click or via VS Code Live Server)
+
+---
+
+## 📦 Deployment
+
+This project is deployed using [Vercel](https://vercel.com/).
+
+---
+
+## 🙌 Author
+
+Made with ❤️ by **[Balmukund Shukla](https://github.com/Balmukund-01)**
+Feel free to ⭐ the repo if you like it!
+
+---
+
+```

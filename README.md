@@ -42,13 +42,13 @@ A simple and responsive Event Manager web application built using **HTML**, **CS
 ```
 
 
-
-````
 event-manager/
 ├── index.html
 ├── styles.css
 ├── script.js
 └── README.md
+````
+
 ---
 
 ## 👨‍💻 How to Use Locally
@@ -57,7 +57,7 @@ event-manager/
    ```bash
    git clone https://github.com/Balmukund-01/event-manager.git
 ````
-
+````
 2. Open the folder:
 
    ```bash
